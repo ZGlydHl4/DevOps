@@ -7,3 +7,6 @@ def test_moyenne():
 
 
 	assert result == 1
+
+if __name__ == '__main__':
+	test_moyenne()
